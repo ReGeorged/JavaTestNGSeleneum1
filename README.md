@@ -1,2 +1,3 @@
-sample pom test automation using TestNG Selenium on Java
-reports are made using ExtentReport
+Sample *POM* test automation using **TestNG and Selenium on Java**
+
+reports are made using **ExtentReport.**
